@@ -1,0 +1,33 @@
+/*****************************TAG SELECTORS*****************************/
+body {
+  background-color: #d8ebb5;
+
+}
+
+hr {
+  border-style:;
+  border-top-style:groove;
+  border-color: #2b580c;
+  border-width: 2px;
+  width: 90%;
+}
+h1{
+  color:#2b580c;
+  font-size: 50px;
+  font-style: italic;
+}
+h2 {
+  color:#2b580c;
+}
+img class"l" {
+  max-width: 90%;
+  height: auto;
+}
+
+/*******************************CLASS SELECTOR******************************/
+.l{
+  border-radius: 8px;
+}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
